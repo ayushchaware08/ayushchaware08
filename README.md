@@ -7,7 +7,7 @@
 
 ## Languages and Tools:
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,c,cpp,python,github,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,c,c++,python,github,vscode)](https://skillicons.dev)<br/>
 
 ## 📣 Contact :LinkedIn & CV
 
