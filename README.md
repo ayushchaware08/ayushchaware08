@@ -11,8 +11,9 @@
 <h3 align="left">A passionate Learner from India</h3>
 <!--
 // profile View
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushchaware08&label=Profile%20views&color=0e75b6&style=flat" alt="ayushchware" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushchaware08&label=Profile%20views&color=0e75b6&style=flat" alt="ayushchaware" /> </p>
 -->
+
 - 🔭 I’m currently Learning Data Structure and Algorithms
   
 - 💬 Ask me about C, C++, Python, ML
@@ -23,23 +24,31 @@
   
 - 😄 Pronouns: He/Him
 
-## Languages and Tools:
-
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,c,cpp,python,github,git,vscode,anaconda,replit)](https://skillicons.dev)<br/>
-
-## 📣 Connect with me
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ayush-sanjay-chaware-50888a222/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ayushchaware8"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-## 🔥 My GitHub Stats
+<h2 align="center"> Languages and Tools 👨‍💻 </h2>
 
-| Stats    | Streak    |
-| :---: | :---: |
-|<a href="https://github.com/ayushchaware08"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushchaware08&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchaware08&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="Ayush's Streak"/>|
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,c,cpp,python,github,git,vscode,anaconda,replit)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushchaware08&show_icons=true&locale=en&layout=compact" alt="ayushchaware08" /></p>
+
+
+<h2  align="center"> 🔥 My GitHub Stats 🔥</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ayushchaware08&count_private=true&theme=react&border_radius=10" alt="Ayush's Streak Stats"/>
+<!--   alag hi counting deraha
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushchaware08&count_private=true&show_icons=true&theme=react&rank_icon=1b93c9&border_radius=10&show_owner=true" alt="readme stats" />
+  <br/> -->
+
+<img width=390 alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushchaware08&show_icons=true&count_private=true&title_color=1b93c9&icon_color=1b93c9&show_owner=true&border_radius=10&theme=react" height="190px"/></a>
+  
+  <img href="https://github.com/ayushchaware08" width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushchaware08&hide=HTML&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats&size_weight=0.5&count_weight=0.5" alt="Top langs" />
+</div>
+<br/>
+
+
 
 
 <!--
